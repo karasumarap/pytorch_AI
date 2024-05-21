@@ -1,0 +1,13 @@
+# Ignore data sets
+DCGANdata/
+DCGANdatakpop/
+FashionMNIST/
+jpwoman/
+kpop_origin/
+lfw-deepfunneled/
+oxford-102/
+
+# Ignore any other unnecessary files
+*.out
+*.sh
+
